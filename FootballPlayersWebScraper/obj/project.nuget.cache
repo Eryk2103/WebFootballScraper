@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EfaBd1kGyDcZve5PxipGmrW0OduV3Hn1ZLB2qRUhrRp3Magba5tlUA2EzJ61Bz7CgcLRSasDRXiX1UkFrMpx9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eryk0\\Documents\\Projekty\\FootballPlayersWebScraper\\FootballPlayersWebScraper\\FootballPlayersWebScraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eryk0\\.nuget\\packages\\htmlagilitypack\\1.11.43\\htmlagilitypack.1.11.43.nupkg.sha512"
+  ],
+  "logs": []
+}

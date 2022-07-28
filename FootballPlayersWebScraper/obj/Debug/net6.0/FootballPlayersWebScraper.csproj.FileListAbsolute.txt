@@ -1,0 +1,17 @@
+C:\Users\eryk0\Documents\Projekty\FootballPlayersWebScraper\FootballPlayersWebScraper\bin\Debug\net6.0\FootballPlayersWebScraper.exe
+C:\Users\eryk0\Documents\Projekty\FootballPlayersWebScraper\FootballPlayersWebScraper\bin\Debug\net6.0\FootballPlayersWebScraper.deps.json
+C:\Users\eryk0\Documents\Projekty\FootballPlayersWebScraper\FootballPlayersWebScraper\bin\Debug\net6.0\FootballPlayersWebScraper.runtimeconfig.json
+C:\Users\eryk0\Documents\Projekty\FootballPlayersWebScraper\FootballPlayersWebScraper\bin\Debug\net6.0\FootballPlayersWebScraper.dll
+C:\Users\eryk0\Documents\Projekty\FootballPlayersWebScraper\FootballPlayersWebScraper\bin\Debug\net6.0\FootballPlayersWebScraper.pdb
+C:\Users\eryk0\Documents\Projekty\FootballPlayersWebScraper\FootballPlayersWebScraper\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\eryk0\Documents\Projekty\FootballPlayersWebScraper\FootballPlayersWebScraper\obj\Debug\net6.0\FootballPlayersWebScraper.csproj.AssemblyReference.cache
+C:\Users\eryk0\Documents\Projekty\FootballPlayersWebScraper\FootballPlayersWebScraper\obj\Debug\net6.0\FootballPlayersWebScraper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eryk0\Documents\Projekty\FootballPlayersWebScraper\FootballPlayersWebScraper\obj\Debug\net6.0\FootballPlayersWebScraper.AssemblyInfoInputs.cache
+C:\Users\eryk0\Documents\Projekty\FootballPlayersWebScraper\FootballPlayersWebScraper\obj\Debug\net6.0\FootballPlayersWebScraper.AssemblyInfo.cs
+C:\Users\eryk0\Documents\Projekty\FootballPlayersWebScraper\FootballPlayersWebScraper\obj\Debug\net6.0\FootballPlayersWebScraper.csproj.CoreCompileInputs.cache
+C:\Users\eryk0\Documents\Projekty\FootballPlayersWebScraper\FootballPlayersWebScraper\obj\Debug\net6.0\FootballPlayersWebScraper.csproj.CopyComplete
+C:\Users\eryk0\Documents\Projekty\FootballPlayersWebScraper\FootballPlayersWebScraper\obj\Debug\net6.0\FootballPlayersWebScraper.dll
+C:\Users\eryk0\Documents\Projekty\FootballPlayersWebScraper\FootballPlayersWebScraper\obj\Debug\net6.0\refint\FootballPlayersWebScraper.dll
+C:\Users\eryk0\Documents\Projekty\FootballPlayersWebScraper\FootballPlayersWebScraper\obj\Debug\net6.0\FootballPlayersWebScraper.pdb
+C:\Users\eryk0\Documents\Projekty\FootballPlayersWebScraper\FootballPlayersWebScraper\obj\Debug\net6.0\FootballPlayersWebScraper.genruntimeconfig.cache
+C:\Users\eryk0\Documents\Projekty\FootballPlayersWebScraper\FootballPlayersWebScraper\obj\Debug\net6.0\ref\FootballPlayersWebScraper.dll
